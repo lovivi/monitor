@@ -1,0 +1,21 @@
+{
+  "config": {
+    "monitored_address": "0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0",
+    "base_token": "ETH",
+    "quote_token": "MPH",
+    "token_addresses": {
+      "ETH": "0x5300000000000000000000000000000000000011",
+      "MPH": "0x579C032A137D796f29b14AdEcb58C2E56B14e367"
+    },
+    "dex_contracts": {
+      "UniversalRouter": "0xb789922d715475f419b7cb47b6155bf7a2acecd6"
+    }
+  },
+  "monitoring": {
+    "start_time": "2025-01-11T19:29:20.563348+00:00",
+    "last_processed_tx": "0xb3ed87de4efc2c57f9afa16e69700a7b691f7bb56f786a4b7775adcfc1ca8c0a",
+    "total_transactions": 2225,
+    "abnormal_transactions": 0
+  },
+  "abnormal_txs": []
+}
