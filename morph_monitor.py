@@ -32,6 +32,7 @@ class MorphTransactionMonitor:
     # Known DEX contracts
     DEX_CONTRACTS = {
         'UniversalRouter': '0xb789922D715475F419b7CB47B6155bF7a2ACECD6'.lower(),
+        'UniswapV2Router02': '0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a'.lower(),
     }
 
     def __init__(self, address, base_token="ETH", quote_token="MPH"):
@@ -121,8 +122,8 @@ class MorphTransactionMonitor:
 
         to_address = tx["to"].get("hash", "").lower()
         
-        # Check if it's a DEX trade through UniversalRouter
-        if to_address == self.DEX_CONTRACTS['UniversalRouter']:
+        # Check if it's a DEX trade through any known DEX contract
+        if to_address in self.DEX_CONTRACTS.values():
             return True
             
         # Check if it's interaction with ETH or MPH

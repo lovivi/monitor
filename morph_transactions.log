@@ -1,434 +1,271 @@
-2025-01-12 02:51:58,528 - INFO - Starting monitoring for address: 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 02:51:58,529 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 02:53:26,849 - INFO - 
-Transaction Analysis for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0:
-2025-01-12 02:53:26,849 - INFO - Total transactions: 50
-2025-01-12 02:53:26,849 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 02:53:26,849 - INFO - Abnormal transactions (non-ETH/MPH): 0
-2025-01-12 02:54:47,332 - INFO - 
-Transaction Analysis for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0:
-2025-01-12 02:54:47,332 - INFO - Total transactions: 50
-2025-01-12 02:54:47,332 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 02:54:47,332 - INFO - Abnormal transactions (non-ETH/MPH): 0
-2025-01-12 02:54:47,332 - INFO - Base token (ETH) address: 0x5300000000000000000000000000000000000011
-2025-01-12 02:54:47,332 - INFO - Quote token (MPH) address: 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 02:56:00,564 - INFO - 
-Transaction Analysis for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0:
-2025-01-12 02:56:00,565 - INFO - Total transactions: 50
-2025-01-12 02:56:00,565 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 02:56:00,565 - INFO - 
-Trading Direction Statistics:
-2025-01-12 02:56:00,565 - INFO - ETH to MPH trades: 26
-2025-01-12 02:56:00,565 - INFO - MPH to ETH trades: 24
-2025-01-12 02:56:00,565 - INFO - Unknown direction trades: 0
-2025-01-12 02:56:00,565 - INFO - Abnormal transactions (non-ETH/MPH): 0
-2025-01-12 02:56:00,565 - INFO - 
-Token Addresses:
-2025-01-12 02:56:00,565 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 02:56:00,565 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 02:58:12,391 - INFO - 
-Transaction Analysis for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0:
-2025-01-12 02:58:12,391 - INFO - Total transactions: 50
-2025-01-12 02:58:12,391 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 02:58:12,391 - INFO - 
-Trading Direction Statistics:
-2025-01-12 02:58:12,391 - INFO - ETH to MPH trades: 25
-2025-01-12 02:58:12,391 - INFO - MPH to ETH trades: 25
-2025-01-12 02:58:12,391 - INFO - Unknown direction trades: 0
-2025-01-12 02:58:12,391 - INFO - Abnormal transactions (non-ETH/MPH): 0
-2025-01-12 02:58:12,391 - INFO - 
-Token Addresses:
-2025-01-12 02:58:12,391 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 02:58:12,391 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 03:01:52,444 - INFO - 
-Transaction Analysis for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0:
-2025-01-12 03:01:52,444 - INFO - Total transactions analyzed: 50
-2025-01-12 03:01:52,444 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 03:01:52,444 - INFO - 
-Trading Statistics:
-2025-01-12 03:01:52,445 - INFO - ETH to MPH trades: 25
-2025-01-12 03:01:52,445 - INFO - MPH to ETH trades: 25
-2025-01-12 03:01:52,445 - INFO - Token transfers: 0
-2025-01-12 03:01:52,445 - INFO - Other token interactions: 0
-2025-01-12 03:01:52,445 - INFO - Unknown transactions: 0
-2025-01-12 03:01:52,445 - INFO - 
-Token Addresses:
-2025-01-12 03:01:52,445 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 03:01:52,445 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 03:02:53,400 - INFO - 
-Transaction Analysis for address 0xac57cdb33ff64f2eeb1753a45e08bf09266dad12:
-2025-01-12 03:02:53,400 - INFO - Total transactions analyzed: 9
-2025-01-12 03:02:53,400 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 03:02:53,400 - INFO - 
-Trading Statistics:
-2025-01-12 03:02:53,400 - INFO - ETH to MPH trades: 2
-2025-01-12 03:02:53,400 - INFO - MPH to ETH trades: 2
-2025-01-12 03:02:53,400 - INFO - Token transfers: 0
-2025-01-12 03:02:53,400 - INFO - Other token interactions: 1
-2025-01-12 03:02:53,401 - INFO - Unknown transactions: 4
-2025-01-12 03:02:53,401 - INFO - 
-Token Addresses:
-2025-01-12 03:02:53,401 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 03:02:53,401 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 03:02:53,401 - INFO - 
-Other Token Interaction Details:
-2025-01-12 03:02:53,401 - INFO - 
-Hash: 0x09e22bca6ef9bee01534b6f97a617ddb3b719f4861f965ea96bc7f691adab0bc
-2025-01-12 03:02:53,401 - INFO - Time: 2025-01-08T15:34:26.000000Z
-2025-01-12 03:02:53,401 - INFO - Contract: Bainance
-2025-01-12 03:02:53,401 - INFO - Details: Interaction with Bainance
-2025-01-12 03:02:53,401 - INFO - Method: approve
-2025-01-12 03:02:53,401 - INFO - To: 0xe2E7D83dFBd25407045Fd061e4c17cC76007deaD
-2025-01-12 03:02:53,401 - INFO - Status: ok
-2025-01-12 03:02:53,401 - INFO - --------------------------------------------------
-2025-01-12 03:07:28,649 - INFO - 
-Transaction Analysis for address 0xac57cdb33ff64f2eeb1753a45e08bf09266dad12:
-2025-01-12 03:07:28,649 - INFO - Total transactions analyzed: 9
-2025-01-12 03:07:28,649 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 03:07:28,649 - INFO - 
-Trading Statistics:
-2025-01-12 03:07:28,649 - INFO - ETH to MPH trades: 2
-2025-01-12 03:07:28,649 - INFO - MPH to ETH trades: 2
-2025-01-12 03:07:28,649 - INFO - Token transfers: 0
-2025-01-12 03:07:28,649 - INFO - Other token interactions: 1
-2025-01-12 03:07:28,649 - INFO - Unknown transactions: 4
-2025-01-12 03:07:28,649 - INFO - 
-Token Addresses:
-2025-01-12 03:07:28,649 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 03:07:28,649 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 03:07:28,649 - INFO - 
-Other Token Interaction Details:
-2025-01-12 03:07:28,649 - INFO - 
-Hash: 0x09e22bca6ef9bee01534b6f97a617ddb3b719f4861f965ea96bc7f691adab0bc
-2025-01-12 03:07:28,649 - INFO - Time: 2025-01-08T15:34:26.000000Z
-2025-01-12 03:07:28,649 - INFO - Contract: Bainance
-2025-01-12 03:07:28,650 - INFO - Details: Interaction with Bainance
-2025-01-12 03:07:28,650 - INFO - Method: approve
-2025-01-12 03:07:28,650 - INFO - To: 0xe2E7D83dFBd25407045Fd061e4c17cC76007deaD
-2025-01-12 03:07:28,650 - INFO - Status: ok
-2025-01-12 03:07:28,650 - INFO - --------------------------------------------------
-2025-01-12 03:08:40,962 - INFO - 
-Transaction Analysis for address 0xac57cdb33ff64f2eeb1753a45e08bf09266dad12:
-2025-01-12 03:08:40,963 - INFO - Total transactions analyzed: 9
-2025-01-12 03:08:40,963 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 03:08:40,963 - INFO - ETH/MPH related transactions: 4
-2025-01-12 03:08:40,963 - INFO - Other transactions: 5
-2025-01-12 03:08:40,963 - INFO - 
-Token Addresses:
-2025-01-12 03:08:40,963 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 03:08:40,963 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 03:08:40,963 - INFO - 
-Other Transaction Details:
-2025-01-12 03:08:40,963 - INFO - 
-Hash: 0x09e22bca6ef9bee01534b6f97a617ddb3b719f4861f965ea96bc7f691adab0bc
-2025-01-12 03:08:40,963 - INFO - Time: 2025-01-08T15:34:26.000000Z
-2025-01-12 03:08:40,963 - INFO - Contract: Bainance
-2025-01-12 03:08:40,963 - INFO - Details: Interaction with Bainance
-2025-01-12 03:08:40,963 - INFO - Method: approve
-2025-01-12 03:08:40,963 - INFO - To: 0xe2E7D83dFBd25407045Fd061e4c17cC76007deaD
-2025-01-12 03:08:40,963 - INFO - Status: ok
-2025-01-12 03:08:40,963 - INFO - --------------------------------------------------
-2025-01-12 03:08:40,963 - INFO - 
-Hash: 0xf0362bf3482cf44d38e1cf4c9b6ee93b54a450bf1da88113ba357256e8a9aab8
-2025-01-12 03:08:40,963 - INFO - Time: 2025-01-08T15:25:23.000000Z
-2025-01-12 03:08:40,963 - INFO - Contract: None
-2025-01-12 03:08:40,963 - INFO - Details: Interaction with 0xac57cdb33ff64f2eeb1753a45e08bf09266dad12
-2025-01-12 03:08:40,964 - INFO - Method: None
-2025-01-12 03:08:40,964 - INFO - To: 0xAc57CDb33Ff64f2EEB1753a45e08Bf09266dad12
-2025-01-12 03:08:40,964 - INFO - Status: ok
-2025-01-12 03:08:40,964 - INFO - --------------------------------------------------
-2025-01-12 03:08:40,964 - INFO - 
-Hash: 0x37cb286ede45ee87f3a60f4d4ce1273fe7a447f83f50e152f11fd55f19eaa7a9
-2025-01-12 03:08:40,964 - INFO - Time: 2024-12-18T09:00:42.000000Z
-2025-01-12 03:08:40,964 - INFO - Contract: None
-2025-01-12 03:08:40,964 - INFO - Details: Interaction with 0x374e70a996e907f9551681a9ca887b4af23ed9f6
-2025-01-12 03:08:40,964 - INFO - Method: None
-2025-01-12 03:08:40,964 - INFO - To: 0x374E70a996E907f9551681A9Ca887b4af23ED9F6
-2025-01-12 03:08:40,964 - INFO - Status: ok
-2025-01-12 03:08:40,964 - INFO - --------------------------------------------------
-2025-01-12 03:08:40,964 - INFO - 
-Hash: 0xa4127aa0131e2197ec3d48f3e22ed4182d07b5cb1e1f9a70d6deebed4267e1ac
-2025-01-12 03:08:40,964 - INFO - Time: 2024-12-16T03:08:30.000000Z
-2025-01-12 03:08:40,964 - INFO - Contract: None
-2025-01-12 03:08:40,964 - INFO - Details: Interaction with 0xa07445b17d5fc8ab04776f33215f55aa9c143621
-2025-01-12 03:08:40,964 - INFO - Method: None
-2025-01-12 03:08:40,964 - INFO - To: 0xa07445b17d5FC8Ab04776f33215F55Aa9c143621
-2025-01-12 03:08:40,964 - INFO - Status: ok
-2025-01-12 03:08:40,964 - INFO - --------------------------------------------------
-2025-01-12 03:08:40,964 - INFO - 
-Hash: 0x0a268085df9815760c0f09b0fdc48aa060e33cd59ee1435fa32de25a051048fd
-2025-01-12 03:08:40,964 - INFO - Time: 2024-12-04T03:30:47.000000Z
-2025-01-12 03:08:40,964 - INFO - Contract: None
-2025-01-12 03:08:40,964 - INFO - Details: Interaction with 0xac57cdb33ff64f2eeb1753a45e08bf09266dad12
-2025-01-12 03:08:40,965 - INFO - Method: None
-2025-01-12 03:08:40,965 - INFO - To: 0xAc57CDb33Ff64f2EEB1753a45e08Bf09266dad12
-2025-01-12 03:08:40,965 - INFO - Status: ok
-2025-01-12 03:08:40,965 - INFO - --------------------------------------------------
-2025-01-12 03:09:21,142 - INFO - 
-Transaction Analysis for address 0xac57cdb33ff64f2eeb1753a45e08bf09266dad12:
-2025-01-12 03:09:21,142 - INFO - Total transactions analyzed: 9
-2025-01-12 03:09:21,142 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 03:09:21,142 - INFO - ETH/MPH related transactions: 4
-2025-01-12 03:09:21,142 - INFO - Other transactions: 5
-2025-01-12 03:09:21,142 - INFO - 
-Token Addresses:
-2025-01-12 03:09:21,142 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 03:09:21,142 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 03:09:38,831 - INFO - 
-Transaction Analysis for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0:
-2025-01-12 03:09:38,831 - INFO - Total transactions analyzed: 50
-2025-01-12 03:09:38,831 - INFO - Transactions in last 15 minutes: 0
-2025-01-12 03:09:38,831 - INFO - ETH/MPH related transactions: 50
-2025-01-12 03:09:38,831 - INFO - Other transactions: 0
-2025-01-12 03:09:38,831 - INFO - 
-Token Addresses:
-2025-01-12 03:09:38,831 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 03:09:38,831 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 03:12:27,933 - INFO - 
-Transaction Analysis for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0:
-2025-01-12 03:12:27,933 - INFO - Total transactions analyzed: 50
-2025-01-12 03:12:27,933 - INFO - Transactions in last 15 minutes: 27
-2025-01-12 03:12:27,933 - INFO - ETH/MPH related transactions: 50
-2025-01-12 03:12:27,934 - INFO - Other transactions: 0
-2025-01-12 03:12:27,934 - INFO - 
-Token Addresses:
-2025-01-12 03:12:27,934 - INFO - Base token (ETH): 0x5300000000000000000000000000000000000011
-2025-01-12 03:12:27,934 - INFO - Quote token (MPH): 0x579C032A137D796f29b14AdEcb58C2E56B14e367
-2025-01-12 03:14:34,903 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 03:14:34,903 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 03:14:34,903 - INFO - Press Ctrl+C to stop monitoring
-2025-01-12 03:16:47,910 - INFO - Monitoring stopped by user
-2025-01-12 03:18:27,229 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 03:18:27,229 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 03:18:27,229 - INFO - Press Ctrl+C to stop monitoring
-2025-01-12 03:18:27,234 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2025-01-20 02:18:09,464 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
+2025-01-20 02:18:09,464 - INFO - Watching for non-ETH/MPH transactions
+2025-01-20 02:18:09,464 - INFO - Press Ctrl+C to stop monitoring
+2025-01-20 02:18:09,468 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
  * Running on http://10.140.0.2:5000
-2025-01-12 03:18:27,234 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-12 03:18:40,092 - INFO - 127.0.0.1 - - [12/Jan/2025 03:18:40] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:18:59,128 - INFO - 127.0.0.1 - - [12/Jan/2025 03:18:59] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:19:10,817 - INFO - 127.0.0.1 - - [12/Jan/2025 03:19:10] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:19:16,091 - INFO - 127.0.0.1 - - [12/Jan/2025 03:19:16] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:19:20,486 - INFO - 127.0.0.1 - - [12/Jan/2025 03:19:20] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:19:26,571 - INFO - 127.0.0.1 - - [12/Jan/2025 03:19:26] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:20:03,892 - INFO - 127.0.0.1 - - [12/Jan/2025 03:20:03] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:20:15,122 - INFO - 127.0.0.1 - - [12/Jan/2025 03:20:15] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:20:32,288 - INFO - 127.0.0.1 - - [12/Jan/2025 03:20:32] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:20:39,145 - INFO - 127.0.0.1 - - [12/Jan/2025 03:20:39] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:21:28,256 - INFO - Monitoring stopped by user
-2025-01-12 03:21:59,749 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 03:21:59,749 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 03:21:59,750 - INFO - Press Ctrl+C to stop monitoring
-2025-01-12 03:21:59,754 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2025-01-20 02:18:09,468 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-20 02:18:09,762 - ERROR - Error loading data file: Expecting value: line 1 column 1 (char 0)
+2025-01-20 02:18:09,762 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,763 - WARNING - Hash: 0x893c8e6ce222b6ded58ad72766dab764ec463626ba52a036dd68ca217c467d5d
+2025-01-20 02:18:09,763 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,763 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,763 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,763 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,763 - WARNING - Hash: 0x972aed4054c4ee2da8b260abef100b50b97488598e2ce662d198eeedc3a59f5f
+2025-01-20 02:18:09,763 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,763 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,763 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,763 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,763 - WARNING - Hash: 0x80540a22c081e9ce41009baa0941cd391a467d89829d8087fc95969cf9a3ec96
+2025-01-20 02:18:09,763 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,763 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,764 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,764 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,764 - WARNING - Hash: 0xd2a221c7df695f5504e532f70457e312de1192a286f303b85a5cbe6a63fc089f
+2025-01-20 02:18:09,764 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,764 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,764 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,764 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,764 - WARNING - Hash: 0x2756381c6f424b84e548080a4732f5fd28b2a0548138a4c122d3d774ec36f0ad
+2025-01-20 02:18:09,764 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,764 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,764 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,764 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,764 - WARNING - Hash: 0x296ae82c7233cd6b60dba687d3291aca9643785fc06d113720b3cc9658dc9312
+2025-01-20 02:18:09,764 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,764 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,764 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,764 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,764 - WARNING - Hash: 0xc2cc0c66edc28002e9518880fef95a7735962d47d234345eb3dc53336bfe0f44
+2025-01-20 02:18:09,764 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,764 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,764 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,764 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,764 - WARNING - Hash: 0xf45ad30de34072f62137aeb954a29d141ad03a425fc0d2e898dae6b127cc0053
+2025-01-20 02:18:09,764 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,764 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,764 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,765 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,765 - WARNING - Hash: 0x66514f7b0dcd506caf08fd7b6082a7d2c61b9f05bc2eeb4c60f10e3879a4efe8
+2025-01-20 02:18:09,765 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,765 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,765 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,765 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,765 - WARNING - Hash: 0xf41a9be4877d3fda237314f36bfc1f96f6c043903767c27a790f6417c8acdfda
+2025-01-20 02:18:09,765 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,765 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,765 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,765 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,765 - WARNING - Hash: 0x940d52342a6b6b41734d5d2bea0d1bcf18872138a5480dcdd337501c80d7e66e
+2025-01-20 02:18:09,765 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,765 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,765 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,765 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,765 - WARNING - Hash: 0xd75d630c97abc6f7ec3616465c1a34fb5e95897f45e31522c9995b472bbce4f4
+2025-01-20 02:18:09,765 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,765 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,765 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,765 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,765 - WARNING - Hash: 0x382d0388c630e13ce99998b4593ead29a7ac8278bfcc4cd4f47b149fe068ed77
+2025-01-20 02:18:09,765 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,766 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,766 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,766 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,766 - WARNING - Hash: 0x3a03466381fa4ea92b799b043386c3c3e9be096b5c6e285ff075dedd21c5d43d
+2025-01-20 02:18:09,766 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,766 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,766 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,766 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,766 - WARNING - Hash: 0x6dbea7bf42e906e9e856e4ffff7cfb7070c81d8d1b68bddd66659933871cb46c
+2025-01-20 02:18:09,766 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,766 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,766 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,766 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,766 - WARNING - Hash: 0x4a50408c76fb9a983d899ae8b07def775f8cec2c30db4d23cbcf71e424c6990b
+2025-01-20 02:18:09,766 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,766 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,766 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,766 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,766 - WARNING - Hash: 0x631900a03aedb5236f22323533903cd888c2680f927b80a2c41278ce50b05446
+2025-01-20 02:18:09,766 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,766 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,766 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,766 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,766 - WARNING - Hash: 0x0b7eb46d89a2afbf8dc4667c9b6d69616f0497622cb11b5babd7f936174f8c08
+2025-01-20 02:18:09,766 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,767 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,767 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,767 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,767 - WARNING - Hash: 0xcf33b2907048990a64aff889b11c490fba83f5fba801b4f5ee6aeed0d7277001
+2025-01-20 02:18:09,767 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,767 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,767 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,767 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,767 - WARNING - Hash: 0xffc633b9eb7dc2454323f44836053f482d95f46cba3748b4e7ea8b0e8c8e9622
+2025-01-20 02:18:09,767 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,767 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,767 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,767 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,767 - WARNING - Hash: 0xceeb8439e0bb659b8723cbc53a876b2db50e2e39b10ce89d60bc743918a59ebf
+2025-01-20 02:18:09,767 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,767 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,767 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,767 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,767 - WARNING - Hash: 0xf4810be133b6fdd72ac9565aef9c0524ad9089313c00c6262cd6e7ec44d997ce
+2025-01-20 02:18:09,767 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,767 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,767 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,767 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,767 - WARNING - Hash: 0x4417921bc1dc2acf31e301d1e15d36acc18695bd349e44b2debd10b1784adaa3
+2025-01-20 02:18:09,767 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,767 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,768 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,768 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,768 - WARNING - Hash: 0xb6b82f936dfd520099898375bf8cd43e014702183cd82da2798a53e9adffbd9c
+2025-01-20 02:18:09,768 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,768 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,768 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,768 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,768 - WARNING - Hash: 0x1edac056ae30e980f97ce15e529c800cb944be682d21bf8b52f3c525bb4dd04f
+2025-01-20 02:18:09,768 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,768 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,768 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,768 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,768 - WARNING - Hash: 0xcee3caec897c616cbd5eeff6de9c5a2578ebc3ed7095494841d107caee322681
+2025-01-20 02:18:09,768 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,768 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,768 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,768 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,768 - WARNING - Hash: 0x46f4ea8069e7ea81d030ee725ada0abebad953812f14fca8a655e60b47fe74d0
+2025-01-20 02:18:09,768 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,768 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,768 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,768 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,768 - WARNING - Hash: 0x6872e0dd03821caa87fd662fd09ed0fa99bfe1d82d00dc9028655f60d9ebdff5
+2025-01-20 02:18:09,768 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,768 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,768 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,769 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,769 - WARNING - Hash: 0x280dd047ce4c0632face1b3ea536f1f6be263b71299836a6e8e75fbadaeca2e0
+2025-01-20 02:18:09,769 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,769 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,769 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,769 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,769 - WARNING - Hash: 0x6d2319416e3f92003ab30ae5bc6c377c236f205d9fec78bfc7f1e9e9416e4f87
+2025-01-20 02:18:09,769 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,769 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,769 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,769 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,769 - WARNING - Hash: 0x9dcedbd394330ea5ed67199e81478c7307a56df6aba3c61223c73ea4056e7d3a
+2025-01-20 02:18:09,769 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,769 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,769 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,769 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,769 - WARNING - Hash: 0x347bb49a27b4af8e00902ab39a28da5a33cfcb770fbb8141dfd42f49c319d10a
+2025-01-20 02:18:09,769 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,769 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,769 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,769 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,769 - WARNING - Hash: 0xc1ab6bc97f731cac32626c2f65f290fcd5f3695243aa459171a0fc621395016d
+2025-01-20 02:18:09,769 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,769 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,769 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,770 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,770 - WARNING - Hash: 0x5c234229381cea69f8ecc9e52fa9305a867c0f4a9bca80563298fe30fb00aa83
+2025-01-20 02:18:09,770 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,770 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,770 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,770 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,770 - WARNING - Hash: 0x686ff029ab1157ac40d16db4cacbacfb1aded6640c2b784804723c14e544fb30
+2025-01-20 02:18:09,770 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,770 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,770 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,770 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,770 - WARNING - Hash: 0xbfbaa96a7afb97c28833471a7796255cd8b2871fb0cb22c0a262d1bcde2c1875
+2025-01-20 02:18:09,770 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,770 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,770 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,770 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,770 - WARNING - Hash: 0xa8f6a8b582a8ef90146e3f6a3b53df717f54cff416b2dd893a2075ac05ee241d
+2025-01-20 02:18:09,770 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,770 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,770 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,770 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,770 - WARNING - Hash: 0x427574ae8e4aa37a90f335157679323ee7315908456188851841ef6a78e0616f
+2025-01-20 02:18:09,770 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,770 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,770 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,770 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,771 - WARNING - Hash: 0x40165bc03f8f3d807be5420e807fca31aad05bc9bde125063f1e625f7448d2ff
+2025-01-20 02:18:09,771 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,771 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,771 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,771 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,771 - WARNING - Hash: 0x0fd2c19f09120abc7d6b4bc7ae89c75dacb81f22f1731d25d26aa189ecfee6d3
+2025-01-20 02:18:09,771 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,771 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,771 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,771 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,771 - WARNING - Hash: 0x15845f25964d758eb266dfccdb32b8dd44480bd49ef3aec1192b0ce5dad8232b
+2025-01-20 02:18:09,771 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,771 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,771 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,771 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,771 - WARNING - Hash: 0x965c7905ae4fa6113ef9bf74f8c2412e3aae682132f93d4266150addd4022410
+2025-01-20 02:18:09,771 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,771 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,771 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,771 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,771 - WARNING - Hash: 0x12588693e97b81dca09205e134b96244613faeb67c12e09a2219b306bdfc91c1
+2025-01-20 02:18:09,771 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,771 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,771 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,771 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,771 - WARNING - Hash: 0x60a5264682ab6f2ac5fc8bfe805aadd3c681d67e4cf6ff67f5d16422eaf279af
+2025-01-20 02:18:09,772 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,772 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,772 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,772 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,772 - WARNING - Hash: 0xbf2f5424873bf2fea88315ba6425f5dba311aaeb55fccb36b74bab7e8e3ca2dd
+2025-01-20 02:18:09,772 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,772 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,772 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,772 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,772 - WARNING - Hash: 0x1f40fca422a19cb25e2a0a030b5a0025beb2de04adb5302b5a8b4318accfdf65
+2025-01-20 02:18:09,772 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,772 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,772 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,772 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,772 - WARNING - Hash: 0x9f28e5932df377621ef88445d83e87ce429298f1c42b3876f5d77c58a62dc4c6
+2025-01-20 02:18:09,772 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,772 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,772 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,772 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,772 - WARNING - Hash: 0x9a7e9437d8526d7a733406bb774517c19516161ffb329c8f62ab5ce4b6b40491
+2025-01-20 02:18:09,772 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,772 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,772 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,772 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,772 - WARNING - Hash: 0x5830802d19c6f91161f90eb53a2812d8fb2052d3385f2aea791fe886feab225d
+2025-01-20 02:18:09,772 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,773 - WARNING - Method: swapExactTokensForETH
+2025-01-20 02:18:09,773 - WARNING - --------------------------------------------------
+2025-01-20 02:18:09,773 - WARNING - Abnormal transaction detected!
+2025-01-20 02:18:09,773 - WARNING - Hash: 0x7f74ed8b3b8c03a6df143ec9bd1fcc67a7381300247fa467448e090c08e052fd
+2025-01-20 02:18:09,773 - WARNING - To: UniswapV2Router02 (0x81606E6f8aAD6C75c2f383Ea595c2b9f8ce8aE3a)
+2025-01-20 02:18:09,773 - WARNING - Method: swapExactETHForTokens
+2025-01-20 02:18:09,773 - WARNING - --------------------------------------------------
+2025-01-20 02:19:02,748 - INFO - Monitoring stopped by user
+2025-01-20 02:19:03,478 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
+2025-01-20 02:19:03,479 - INFO - Watching for non-ETH/MPH transactions
+2025-01-20 02:19:03,479 - INFO - Press Ctrl+C to stop monitoring
+2025-01-20 02:19:03,483 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
  * Running on http://10.140.0.2:5000
-2025-01-12 03:21:59,754 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-12 03:22:03,621 - ERROR - Exception on /stats [GET]
-Traceback (most recent call last):
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
-    response = self.full_dispatch_request()
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
-    rv = self.handle_user_exception(e)
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
-    rv = self.dispatch_request()
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
-    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
-  File "/home/songjie/work/web3monitor/morph_monitor.py", line 206, in get_stats
-    duration = str(now - monitor_data['start_time']) if monitor_data['start_time'] else "Not started"
-TypeError: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
-2025-01-12 03:22:03,622 - INFO - 127.0.0.1 - - [12/Jan/2025 03:22:03] "[35m[1mGET /stats HTTP/1.1[0m" 500 -
-2025-01-12 03:22:12,301 - INFO - Monitoring stopped by user
-2025-01-12 03:22:13,219 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 03:22:13,219 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 03:22:13,219 - INFO - Press Ctrl+C to stop monitoring
-2025-01-12 03:22:13,223 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://10.140.0.2:5000
-2025-01-12 03:22:13,223 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-12 03:22:15,985 - ERROR - Exception on /stats [GET]
-Traceback (most recent call last):
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
-    response = self.full_dispatch_request()
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
-    rv = self.handle_user_exception(e)
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
-    rv = self.dispatch_request()
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
-    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
-  File "/home/songjie/work/web3monitor/morph_monitor.py", line 206, in get_stats
-    duration = str(now - monitor_data['start_time']) if monitor_data['start_time'] else "Not started"
-TypeError: unsupported operand type(s) for -: 'datetime.datetime' and 'str'
-2025-01-12 03:22:15,986 - INFO - 127.0.0.1 - - [12/Jan/2025 03:22:15] "[35m[1mGET /stats HTTP/1.1[0m" 500 -
-2025-01-12 03:23:01,237 - INFO - Monitoring stopped by user
-2025-01-12 03:23:02,018 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 03:23:02,018 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 03:23:02,018 - INFO - Press Ctrl+C to stop monitoring
-2025-01-12 03:23:02,022 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://10.140.0.2:5000
-2025-01-12 03:23:02,022 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-12 03:23:04,099 - INFO - 127.0.0.1 - - [12/Jan/2025 03:23:04] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:23:11,663 - INFO - 127.0.0.1 - - [12/Jan/2025 03:23:11] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:27:10,889 - INFO - Monitoring stopped by user
-2025-01-12 03:27:58,851 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 03:27:58,852 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 03:27:58,852 - INFO - Press Ctrl+C to stop monitoring
-2025-01-12 03:27:58,856 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://10.140.0.2:5000
-2025-01-12 03:27:58,856 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-12 03:27:59,358 - ERROR - Error during monitoring: 'monitoring'
-2025-01-12 03:28:20,013 - ERROR - Exception on /stats [GET]
-Traceback (most recent call last):
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
-    response = self.full_dispatch_request()
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
-    rv = self.handle_user_exception(e)
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
-    rv = self.dispatch_request()
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
-    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
-  File "/home/songjie/work/web3monitor/morph_monitor.py", line 223, in get_stats
-    start_time = data['monitoring']['start_time']
-KeyError: 'monitoring'
-2025-01-12 03:28:20,015 - INFO - 127.0.0.1 - - [12/Jan/2025 03:28:20] "[35m[1mGET /stats HTTP/1.1[0m" 500 -
-2025-01-12 03:28:23,138 - ERROR - Exception on /stats [GET]
-Traceback (most recent call last):
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
-    response = self.full_dispatch_request()
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
-    rv = self.handle_user_exception(e)
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
-    rv = self.dispatch_request()
-  File "/opt/conda/envs/morph_monitor/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
-    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
-  File "/home/songjie/work/web3monitor/morph_monitor.py", line 223, in get_stats
-    start_time = data['monitoring']['start_time']
-KeyError: 'monitoring'
-2025-01-12 03:28:23,139 - INFO - 127.0.0.1 - - [12/Jan/2025 03:28:23] "[35m[1mGET /stats HTTP/1.1[0m" 500 -
-2025-01-12 03:28:59,583 - ERROR - Error during monitoring: 'monitoring'
-2025-01-12 03:29:20,387 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 03:29:20,387 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 03:29:20,387 - INFO - Press Ctrl+C to stop monitoring
-2025-01-12 03:29:20,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://10.140.0.2:5000
-2025-01-12 03:29:20,392 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-12 03:29:24,550 - INFO - 127.0.0.1 - - [12/Jan/2025 03:29:24] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:29:27,857 - INFO - 127.0.0.1 - - [12/Jan/2025 03:29:27] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:29:33,586 - INFO - 127.0.0.1 - - [12/Jan/2025 03:29:33] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:30:37,469 - INFO - Monitoring stopped by user
-2025-01-12 03:30:38,284 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-12 03:30:38,284 - INFO - Watching for non-ETH/MPH transactions
-2025-01-12 03:30:38,284 - INFO - Press Ctrl+C to stop monitoring
-2025-01-12 03:30:38,288 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://10.140.0.2:5000
-2025-01-12 03:30:38,288 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-12 03:30:59,629 - INFO - 127.0.0.1 - - [12/Jan/2025 03:30:59] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:31:52,684 - INFO - 198.235.24.254 - - [12/Jan/2025 03:31:52] "[33mGET / HTTP/1.0[0m" 404 -
-2025-01-12 03:34:23,094 - INFO - 127.0.0.1 - - [12/Jan/2025 03:34:23] "GET /stats HTTP/1.1" 200 -
-2025-01-12 03:38:37,900 - ERROR - 162.142.125.199 - - [12/Jan/2025 03:38:37] code 400, message Bad request version ('À\x14À')
-2025-01-12 03:38:37,900 - INFO - 162.142.125.199 - - [12/Jan/2025 03:38:37] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03í¹ÞZÌ\x09ßÌ\x04)\x83\x86Böþå\x1b\x0b\x9e\x197´KÍù0\x95%5(\x96Á \x83ªÁ\x81\x14\x04Êï\x87,\x1e6-÷\x85D\x1an$tÈ¦ì\x93«w7>G\x02ds\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 03:38:42,612 - INFO - 162.142.125.199 - - [12/Jan/2025 03:38:42] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 03:38:48,360 - INFO - 162.142.125.199 - - [12/Jan/2025 03:38:48] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 03:38:49,931 - ERROR - 162.142.125.199 - - [12/Jan/2025 03:38:49] code 505, message Invalid HTTP version (2.0)
-2025-01-12 03:38:49,931 - INFO - 162.142.125.199 - - [12/Jan/2025 03:38:49] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
-2025-01-12 05:44:57,710 - INFO - 162.203.199.201 - - [12/Jan/2025 05:44:57] "[33mGET / HTTP/1.0[0m" 404 -
-2025-01-12 06:48:00,988 - INFO - 185.226.196.23 - - [12/Jan/2025 06:48:00] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 06:48:15,224 - INFO - 185.226.196.23 - - [12/Jan/2025 06:48:15] "[33mGET /cgi-bin/authLogin.cgi HTTP/1.1[0m" 404 -
-2025-01-12 06:48:26,787 - INFO - 185.226.196.24 - - [12/Jan/2025 06:48:26] "[33mGET /api/session/properties HTTP/1.1[0m" 404 -
-2025-01-12 07:08:56,899 - ERROR - 47.88.14.121 - - [12/Jan/2025 07:08:56] code 400, message Bad request version ('À\x13À')
-2025-01-12 07:08:56,899 - INFO - 47.88.14.121 - - [12/Jan/2025 07:08:56] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 07:09:07,176 - INFO - 47.88.14.121 - - [12/Jan/2025 07:09:07] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 07:21:20,408 - INFO - 205.210.31.8 - - [12/Jan/2025 07:21:20] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 07:35:04,414 - INFO - 147.185.132.36 - - [12/Jan/2025 07:35:04] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 08:04:15,126 - ERROR - 167.94.145.100 - - [12/Jan/2025 08:04:15] code 400, message Bad request version ('À\x14À')
-2025-01-12 08:04:15,126 - INFO - 167.94.145.100 - - [12/Jan/2025 08:04:15] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03E\x0cïÞë\x07ä¶aÜmí¬ðC\x0dD\x16MÀèz\x11È\x13^\x83A3::Y \x9b?®dXC\x0dv+ô\x8bzn¡\x87ã¬´b$5gë¢s:{çÎN|\x9d\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 08:04:18,709 - INFO - 167.94.145.100 - - [12/Jan/2025 08:04:18] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 08:04:22,281 - INFO - 167.94.145.100 - - [12/Jan/2025 08:04:22] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 08:04:22,709 - ERROR - 167.94.145.100 - - [12/Jan/2025 08:04:22] code 505, message Invalid HTTP version (2.0)
-2025-01-12 08:04:22,709 - INFO - 167.94.145.100 - - [12/Jan/2025 08:04:22] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
-2025-01-12 10:19:38,687 - INFO - 127.0.0.1 - - [12/Jan/2025 10:19:38] "GET /stats HTTP/1.1" 200 -
-2025-01-12 10:40:44,372 - INFO - 171.115.220.108 - - [12/Jan/2025 10:40:44] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 10:45:14,272 - INFO - 154.212.141.195 - - [12/Jan/2025 10:45:14] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 11:09:22,115 - INFO - 180.182.225.240 - - [12/Jan/2025 11:09:22] "[33mGET / HTTP/1.0[0m" 404 -
-2025-01-12 11:26:38,780 - ERROR - 162.216.149.160 - - [12/Jan/2025 11:26:38] code 400, message Bad request version ('À\x13À')
-2025-01-12 11:26:38,781 - INFO - 162.216.149.160 - - [12/Jan/2025 11:26:38] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x036¹ð\x1eÛy¥\x8d¬Wª¬:\x11\x09ÃP;\x9d¾/á_8Öc"dÍM7ô 2¯\x0d+\x90\x06\x81ZZ5iT|\x89óA¡\x85FzºHÔµ\x04ø\x7fLÊÛ\x9dÚ\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 11:26:39,157 - ERROR - 162.216.149.160 - - [12/Jan/2025 11:26:39] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\xadzdï6')
-2025-01-12 11:26:39,157 - INFO - 162.216.149.160 - - [12/Jan/2025 11:26:39] "[35m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03­zdï6 L[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 12:33:35,937 - ERROR - 80.66.83.114 - - [12/Jan/2025 12:33:35] code 400, message Bad request syntax ('\x04\x01\x00\x19h/\x12á\x00')
-2025-01-12 12:33:35,937 - INFO - 80.66.83.114 - - [12/Jan/2025 12:33:35] "[35m[1m\x04\x01\x00\x19h/\x12á\x00[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 12:34:36,175 - ERROR - 80.66.83.114 - - [12/Jan/2025 12:34:36] code 400, message Bad request syntax ('\x05\x01\x00')
-2025-01-12 12:34:36,176 - INFO - 80.66.83.114 - - [12/Jan/2025 12:34:36] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 12:34:36,408 - INFO - 80.66.83.114 - - [12/Jan/2025 12:34:36] "[33mCONNECT hotmail-com.olc.protection.outlook.com:25 HTTP/1.1[0m" 404 -
-2025-01-12 12:45:02,453 - ERROR - 80.66.83.114 - - [12/Jan/2025 12:45:02] code 400, message Bad request syntax ('\x04\x01\x00\x194e*\x13\x00')
-2025-01-12 12:45:02,453 - INFO - 80.66.83.114 - - [12/Jan/2025 12:45:02] "[35m[1m\x04\x01\x00\x194e*\x13\x00[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 12:46:06,634 - ERROR - 80.66.83.114 - - [12/Jan/2025 12:46:06] code 400, message Bad HTTP/0.9 request type ('\x04\x01\x00\x194e')
-2025-01-12 12:46:06,634 - INFO - 80.66.83.114 - - [12/Jan/2025 12:46:06] "[35m[1m\x04\x01\x00\x194e\x0b\x0e\x00[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 12:47:06,861 - ERROR - 80.66.83.114 - - [12/Jan/2025 12:47:06] code 400, message Bad request syntax ('\x05\x01\x00')
-2025-01-12 12:47:06,861 - INFO - 80.66.83.114 - - [12/Jan/2025 12:47:06] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 12:47:07,074 - INFO - 80.66.83.114 - - [12/Jan/2025 12:47:07] "[33mCONNECT hotmail-com.olc.protection.outlook.com:25 HTTP/1.1[0m" 404 -
-2025-01-12 14:54:49,175 - ERROR - 18.188.222.160 - - [12/Jan/2025 14:54:49] code 400, message Bad request version ('À\x14À')
-2025-01-12 14:54:49,176 - INFO - 18.188.222.160 - - [12/Jan/2025 14:54:49] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03äçÏÏ\x09¬\x0cüÒ¯*o\x99h½áq\x91þ>\x8bS\x82ø\x9a\x91SOS@½P\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 14:55:21,431 - INFO - 18.188.222.160 - - [12/Jan/2025 14:55:21] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 14:55:43,083 - INFO - 198.235.24.30 - - [12/Jan/2025 14:55:43] "[33mGET / HTTP/1.0[0m" 404 -
-2025-01-12 15:03:53,151 - ERROR - 167.94.145.100 - - [12/Jan/2025 15:03:53] code 400, message Bad request version ('À\x14À')
-2025-01-12 15:03:53,152 - INFO - 167.94.145.100 - - [12/Jan/2025 15:03:53] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x1dC\x99\x8a{v\x8eìá\x93"ãÖ-\x0f\x86@\x19GD\x15ÏÑLqiìJ^s\x06\x0b \x88e¼ì)\x07mõÍ\x07B:YF\x81xÙî%.s\x8f \x09U5\x17\x7fµ> \x97\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 15:03:56,697 - INFO - 167.94.145.100 - - [12/Jan/2025 15:03:56] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 15:04:00,591 - INFO - 167.94.145.100 - - [12/Jan/2025 15:04:00] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 15:04:01,137 - ERROR - 167.94.145.100 - - [12/Jan/2025 15:04:01] code 505, message Invalid HTTP version (2.0)
-2025-01-12 15:04:01,137 - INFO - 167.94.145.100 - - [12/Jan/2025 15:04:01] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
-2025-01-12 15:49:07,265 - ERROR - 80.66.83.114 - - [12/Jan/2025 15:49:07] code 400, message Bad HTTP/0.9 request type ('\x04\x01\x00PUÎ')
-2025-01-12 15:49:07,265 - INFO - 80.66.83.114 - - [12/Jan/2025 15:49:07] "[35m[1m\x04\x01\x00PUÎ s\x00[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 15:50:07,667 - ERROR - 80.66.83.114 - - [12/Jan/2025 15:50:07] code 400, message Bad request syntax ('\x05\x01\x00')
-2025-01-12 15:50:07,667 - INFO - 80.66.83.114 - - [12/Jan/2025 15:50:07] "[35m[1m\x05\x01\x00[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 15:50:07,888 - INFO - 80.66.83.114 - - [12/Jan/2025 15:50:07] "[33mCONNECT 85.206.160.115:80 HTTP/1.1[0m" 404 -
-2025-01-12 17:50:17,121 - ERROR - 162.142.125.46 - - [12/Jan/2025 17:50:17] code 400, message Bad request version ('À\x14À')
-2025-01-12 17:50:17,121 - INFO - 162.142.125.46 - - [12/Jan/2025 17:50:17] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Í\x08\x92¼/Y>EÅ!JcI\x10ÒÒ÷Î"D\x89b\x9aS\x105É\x11ÂÝ\x08\x9d OHqä¿\x06Ä\x1d\x12\x0d¿Ö_¢«±æ°u\\%ñø%²JÆ\x1bÀr\x85b\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 17:50:21,305 - INFO - 162.142.125.46 - - [12/Jan/2025 17:50:21] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 17:50:26,818 - INFO - 162.142.125.46 - - [12/Jan/2025 17:50:26] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 17:50:28,198 - ERROR - 162.142.125.46 - - [12/Jan/2025 17:50:28] code 505, message Invalid HTTP version (2.0)
-2025-01-12 17:50:28,198 - INFO - 162.142.125.46 - - [12/Jan/2025 17:50:28] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
-2025-01-12 18:17:51,555 - INFO - 103.149.26.200 - - [12/Jan/2025 18:17:51] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 18:17:51,613 - INFO - 103.149.26.200 - - [12/Jan/2025 18:17:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2025-01-12 19:55:41,477 - INFO - 110.77.221.174 - - [12/Jan/2025 19:55:41] "[33mGET / HTTP/1.0[0m" 404 -
-2025-01-12 20:44:18,463 - ERROR - 79.124.40.122 - - [12/Jan/2025 20:44:18] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
-2025-01-12 20:44:18,463 - INFO - 79.124.40.122 - - [12/Jan/2025 20:44:18] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
-2025-01-12 20:49:36,616 - INFO - 123.160.223.72 - - [12/Jan/2025 20:49:36] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 21:52:39,164 - INFO - 65.49.1.16 - - [12/Jan/2025 21:52:39] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 21:52:46,124 - INFO - 65.49.1.14 - - [12/Jan/2025 21:52:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2025-01-12 22:52:51,794 - INFO - 167.172.232.98 - - [12/Jan/2025 22:52:51] "[33mGET / HTTP/1.1[0m" 404 -
-2025-01-12 22:52:52,208 - INFO - 167.172.232.98 - - [12/Jan/2025 22:52:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2025-01-12 23:07:35,690 - INFO - 127.0.0.1 - - [12/Jan/2025 23:07:35] "GET /stats HTTP/1.1" 200 -
-2025-01-13 00:16:47,686 - INFO - 175.198.71.185 - - [13/Jan/2025 00:16:47] "[33mGET / HTTP/1.0[0m" 404 -
-2025-01-13 00:18:25,398 - INFO - 127.0.0.1 - - [13/Jan/2025 00:18:25] "GET /stats HTTP/1.1" 200 -
-2025-01-13 00:19:16,520 - INFO - 127.0.0.1 - - [13/Jan/2025 00:19:16] "GET /stats HTTP/1.1" 200 -
-2025-01-13 00:19:23,068 - INFO - 127.0.0.1 - - [13/Jan/2025 00:19:23] "GET /stats HTTP/1.1" 200 -
-2025-01-13 00:22:27,534 - INFO - Monitoring stopped by user
-2025-01-13 00:22:29,941 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-13 00:22:29,941 - INFO - Watching for non-ETH/MPH transactions
-2025-01-13 00:22:29,941 - INFO - Press Ctrl+C to stop monitoring
-2025-01-13 00:22:29,945 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://10.140.0.2:5000
-2025-01-13 00:22:29,945 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-13 00:22:36,153 - INFO - 127.0.0.1 - - [13/Jan/2025 00:22:36] "GET /stats HTTP/1.1" 200 -
-2025-01-13 00:34:00,421 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
-2025-01-13 00:34:00,421 - INFO - Watching for non-ETH/MPH transactions
-2025-01-13 00:34:00,421 - INFO - Press Ctrl+C to stop monitoring
-2025-01-13 00:34:00,435 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://192.168.3.247:5000
-2025-01-13 00:34:00,435 - INFO - [33mPress CTRL+C to quit[0m
-2025-01-13 00:34:10,082 - INFO - 127.0.0.1 - - [13/Jan/2025 00:34:10] "GET /stats HTTP/1.1" 200 -
-2025-01-13 00:34:37,278 - INFO - Monitoring stopped by user
+2025-01-20 02:19:03,483 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-20 02:19:31,936 - ERROR - 206.168.34.212 - - [20/Jan/2025 02:19:31] code 400, message Bad request version ('zG\x9d@\x15')
+2025-01-20 02:19:31,937 - INFO - 206.168.34.212 - - [20/Jan/2025 02:19:31] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x037\x09\\Ù\x1dzG\x9d@\x15[0m" HTTPStatus.BAD_REQUEST -
+2025-01-20 02:19:33,001 - INFO - Monitoring stopped by user
