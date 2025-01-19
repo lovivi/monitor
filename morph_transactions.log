@@ -41,3 +41,13 @@
 2025-01-20 02:36:04,899 - INFO - 127.0.0.1 - - [20/Jan/2025 02:36:04] "GET /stats HTTP/1.1" 200 -
 2025-01-20 02:36:25,541 - INFO - 127.0.0.1 - - [20/Jan/2025 02:36:25] "GET /stats HTTP/1.1" 200 -
 2025-01-20 02:37:03,781 - INFO - Monitoring stopped by user
+2025-01-20 02:42:02,779 - INFO - Starting continuous monitoring for address 0xae1c7fb1ea42d3df0d8b683fc4f4b7ca5f23fcf0
+2025-01-20 02:42:02,779 - INFO - Watching for non-ETH/MPH transactions
+2025-01-20 02:42:02,779 - INFO - Press Ctrl+C to stop monitoring
+2025-01-20 02:42:02,783 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.140.0.2:5000
+2025-01-20 02:42:02,783 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-20 02:42:19,842 - INFO - 127.0.0.1 - - [20/Jan/2025 02:42:19] "GET /stats HTTP/1.1" 200 -
+2025-01-20 02:42:26,257 - INFO - Monitoring stopped by user
