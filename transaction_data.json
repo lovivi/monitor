@@ -14,8 +14,8 @@
   },
   "monitoring": {
     "start_time": "2025-01-19T18:18:09.762390+00:00",
-    "last_processed_tx": "0x7f74ed8b3b8c03a6df143ec9bd1fcc67a7381300247fa467448e090c08e052fd",
-    "total_transactions": 50,
+    "last_processed_tx": "0xf664fe5d46535126325fa9d57f2e1a1936f79c3d357e38509d6d64ad8d3fbbad",
+    "total_transactions": 54,
     "abnormal_transactions": 50
   },
   "abnormal_txs": [

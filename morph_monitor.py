@@ -81,6 +81,9 @@ class MorphTransactionMonitor:
                     data['monitoring']['start_time'] = datetime.fromisoformat(
                         data['monitoring']['start_time'].replace('Z', '+00:00')
                     )
+                # Update DEX_CONTRACTS configuration
+                if 'config' in data:
+                    data['config']['dex_contracts'] = self.DEX_CONTRACTS
                 return data
         except (json.JSONDecodeError, ValueError) as e:
             logging.error(f"Error loading data file: {e}")
@@ -126,6 +129,10 @@ class MorphTransactionMonitor:
         if to_address in self.DEX_CONTRACTS.values():
             return True
             
+        # Also check if it's a known DEX contract name (for backward compatibility)
+        if tx["to"].get("name") in ["UniversalRouter", "UniswapV2Router02"]:
+            return True
+            
         # Check if it's interaction with ETH or MPH
         if to_address in [self.base_token_address.lower(), self.quote_token_address.lower()]:
             return True
@@ -162,6 +169,9 @@ class MorphTransactionMonitor:
                 },
                 'abnormal_txs': []
             }
+        else:
+            # Update configuration with latest DEX_CONTRACTS
+            data['config']['dex_contracts'] = self.DEX_CONTRACTS
 
         # Initialize start time if not set
         if not data['monitoring']['start_time']:
@@ -256,6 +266,22 @@ def get_stats():
     # Calculate monitoring duration
     duration = str(now - start_time) if start_time else "Not started"
     
+    # Filter out transactions that should not be abnormal based on current rules
+    filtered_abnormal_txs = []
+    for tx in data.get('abnormal_txs', []):
+        # Create a transaction object in the format expected by is_target_pair_transaction
+        tx_obj = {
+            "to": {
+                "hash": tx.get("to_address"),
+                "name": tx.get("to_name")
+            }
+        }
+        if not monitor.is_target_pair_transaction(tx_obj):
+            filtered_abnormal_txs.append(tx)
+    
+    # Update abnormal transaction count
+    data['monitoring']['abnormal_transactions'] = len(filtered_abnormal_txs)
+    
     # Prepare detailed statistics
     stats = {
         'monitor_info': {
@@ -264,23 +290,8 @@ def get_stats():
             'monitoring_duration': duration,
             'monitored_address': data['config']['monitored_address'],
         },
-        'token_info': {
-            'base_token': {
-                'symbol': data['config']['base_token'],
-                'address': data['config']['token_addresses'][data['config']['base_token']]
-            },
-            'quote_token': {
-                'symbol': data['config']['quote_token'],
-                'address': data['config']['token_addresses'][data['config']['quote_token']]
-            }
-        },
-        'dex_contracts': data['config']['dex_contracts'],
-        'statistics': {
-            'total_transactions': data['monitoring']['total_transactions'],
-            'abnormal_transactions': data['monitoring']['abnormal_transactions'],
-            'abnormal_percentage': f"{(data['monitoring']['abnormal_transactions'] / data['monitoring']['total_transactions'] * 100):.2f}%" if data['monitoring']['total_transactions'] > 0 else "0%"
-        },
-        'recent_abnormal_transactions': data.get('abnormal_txs', [])[-10:]  # Last 10 abnormal transactions
+        'dex_contracts': {name: address.lower() for name, address in monitor.DEX_CONTRACTS.items()},
+        'recent_abnormal_transactions': filtered_abnormal_txs[-10:]  # Last 10 abnormal transactions
     }
     return jsonify(stats)
 
